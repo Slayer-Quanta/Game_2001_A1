@@ -1,0 +1,7 @@
+﻿  Game2001_A1_Valee_Daniel.cpp
+  OrderedArray.cpp
+C:\Users\danie\source\repos\Game2001_A1_Valee_Daniel\OrderedArray.cpp(14,21): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  UnorderedArray.cpp
+  UnorderedArray.h
+  Generating Code...
+  Game2001_A1_Valee_Daniel.vcxproj -> C:\Users\danie\source\repos\Game2001_A1_Valee_Daniel\x64\Debug\Game2001_A1_Valee_Daniel.exe
